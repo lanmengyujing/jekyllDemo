@@ -1,0 +1,16 @@
+.DS_Store
+.idea/
+*.iml
+_SpecRunner.html
+dist/
+tmp/
+node_modules/
+reports/
+_site/
+*.ipr
+*.iws
+*.sass-cache
+*.swp
+coverage/
+libpeerconnection.log
+
